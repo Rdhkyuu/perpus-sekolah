@@ -7,7 +7,7 @@ Taufik Hidayat
 Gregoreous Wendy Wijaya
 Cindy Aulia Rakhma
 Aulia Qisti Arini
-Bapak Khusairi
+
 
 
 Cara nge clone:
@@ -17,3 +17,17 @@ Cara nge clone:
 4. Ketik php artisan key:generate.
 5. Ketik php artisan migrate.
 6. Ketik php artisan serve.
+
+
+Tugas Masing :
+Cindy & Aulia =
+-Design Menu Login / Register
+- ?
+
+Taufik & Arofan = 
+- Mengecek dan Membenarkan Database
+- ?
+
+Ridho & Wendy =
+- Membenarkan semua bagian website
+- Problem Solving
