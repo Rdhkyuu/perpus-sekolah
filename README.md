@@ -21,7 +21,7 @@ Cara nge clone:
 
 Tugas Masing :
 Cindy & Aulia =
--Design Menu Login / Register
+- Design Menu Login / Register
 - ?
 
 Taufik & Arofan = 
