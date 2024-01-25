@@ -28,6 +28,8 @@ Cara nge clone:
 2. Ketik composer install.
 3. Ketik cp .env.example .env.
 4. Ketik php artisan key:generate.
+5. Buka XAMPP PHPMYADMIN, bikin database "perpus"
+6. Di file .env, ubah DB_DATABASE =  perpus
 5. Ketik php artisan migrate.
 6. Ketik php artisan serve.
 
