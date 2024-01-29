@@ -7,10 +7,7 @@
 </head>
 <body>
 	<div class="main">  	
-<<<<<<< HEAD
-=======
 		<a href="#" id="close"> < </a>
->>>>>>> login
 		<input type="checkbox" id="chk" aria-hidden="true">
 
 			<div class="signup">
