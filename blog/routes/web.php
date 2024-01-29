@@ -18,4 +18,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('halaman-login', [HalamanController::class, 'login']);
+Route::get('halaman-login', [HalamanController::class, 'login'])->name('login');
