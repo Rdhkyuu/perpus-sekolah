@@ -9,6 +9,10 @@ Cindy Aulia Rakhma
 Aulia Qisti Arini
 
 
+Tugas ini menggunakan laravel 10, jadi clonelah dengan cara yang sesuai. Untuk yang belum paham cara ngeclone sebuah folder laravel, ada tata cara singkat dibagian "Cara nge clone" dibawah ini.
+
+
+
 Cara ngecommit file kita:
 1. git add .
 2. git commit -m "(Ini komentar kita tentang apa yang ditambahkan, jadi bebas), contoh git commit -m "Nambah file blablabla".
@@ -23,15 +27,16 @@ Cara mengirim file kita ke github:
 
 
 Cara nge clone:
-1. Clone repo ini dahulu.
-(USAHAKAN SUDAH DIDALAM FOLER BLOG DENGAN CARA cd blog)
-2. Ketik composer install.
-3. Ketik cp .env.example .env.
-4. Ketik php artisan key:generate.
+1. Clone repo ini dahulu
+(USAHAKAN SUDAH DIDALAM FOLER WEB DENGAN CARA cd web)
+2. Ketik composer install
+3. Ketik cp .env.example .env
+4. Ketik php artisan key:generate
 5. Buka XAMPP PHPMYADMIN, bikin database "perpus"
 6. Di file .env, ubah DB_DATABASE =  perpus
-5. Ketik php artisan migrate.
-6. Ketik php artisan serve.
+5. Ketik php artisan migrate
+6. Buka dua terminal, terminal pertama ketikkan npm run dev
+7. Terminal kedua ketik php artisan serve
 
 
 Tugas Masing :
