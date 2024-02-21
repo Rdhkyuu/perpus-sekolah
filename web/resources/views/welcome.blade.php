@@ -27,7 +27,7 @@
           </button>
         </div>
         <div class="hidden lg:flex lg:gap-x-12">
-          <a href="{{ route('buku') }}" class="text-sm font-semibold leading-6 text-gray-900 hover:text-red-700">List Buku</a>
+          <a href="{{ route('about') }}" class="text-sm font-semibold leading-6 text-gray-900 hover:text-red-700">List Buku</a>
           <a href="#" class="text-sm font-semibold leading-6 text-gray-900 hover:text-red-700">About</a>
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">

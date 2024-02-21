@@ -14,4 +14,8 @@ class HalamanController extends Controller
         return view("buku");
     }
 
+    public function about() {
+        return view("about");
+    }
+
 }

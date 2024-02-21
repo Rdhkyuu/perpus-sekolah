@@ -21,3 +21,5 @@ Route::get('/', function () {
 Route::get('halaman-login', [HalamanController::class, 'login'])->name('login');
 
 Route::get('halaman-buku', [HalamanController::class, 'buku'])->name('buku');
+
+Route::get('halaman-about', [HalamanController::class, 'about'])->name('about');
