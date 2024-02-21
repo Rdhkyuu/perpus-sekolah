@@ -19,3 +19,5 @@ Route::get('/', function () {
 });
 
 Route::get('halaman-login', [HalamanController::class, 'login'])->name('login');
+
+Route::get('halaman-buku', [HalamanController::class, 'buku'])->name('buku');
