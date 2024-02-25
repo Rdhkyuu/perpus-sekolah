@@ -36,7 +36,8 @@ Cara nge clone:
 6. Di file .env, ubah DB_DATABASE =  perpus
 5. Ketik php artisan migrate
 6. Buka dua terminal, terminal pertama ketikkan npm run dev
-7. Terminal kedua ketik php artisan serve
+7. Jika belum bisa npm run dev, ketik npm install dahulu.
+8. Terminal kedua ketik php artisan serve
 
 
 Tugas Masing :
