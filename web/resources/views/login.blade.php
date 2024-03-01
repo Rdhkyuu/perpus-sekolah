@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="main">  	
-		<a href="/" id="close"> < </a>
+		<a href="/" id="close"> < Kembali </a>
 		<input type="checkbox" id="chk" aria-hidden="true">
 
 			<div class="signup">
